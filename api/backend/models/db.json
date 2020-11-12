@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "comments": [
+        "Always remember people who have helped you along the way, and dont forget to lift someone up.",
+        "Your pain becomes your strength.",
+        "clicks: 1, last: 0"
+      ]
+    },
+    {
+      "id": 2,
+      "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "comments": [
+        "Not all things that fall down break. Some develop wings.",
+        "This is not the first time that the world has been in a mess but you are still God, you left us on the earth, not only to preach in a building but to be the church beyond the buildings.",
+        "There comes a time to speak your truth and the time is now"
+      ]
+    },
+    {
+      "id": 3,
+      "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "comments": [
+        "Don't let anyone infiltrate your happiness. Protect it as if it's all you have, because it literally is.",
+        "Knowledge is something that fire cannot burn, water cannot wet, air cannot dry, thieves cannot steal, and the more you spend the more it increases."
+      ]
+    },
+    {
+      "id": 4,
+      "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "comments": [
+        "Our mortality makes it impossible for our problems to last forever.",
+        "Knowledge is NOT power. The correct application of knowledge is power."
+      ]
+    }
+  ]
+}

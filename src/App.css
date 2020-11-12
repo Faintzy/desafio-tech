@@ -1,0 +1,17 @@
+@import '~antd/dist/antd.css';
+
+body {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.App {
+    width: 100% !important;
+    height: 100% !important;
+    position: absolute !important;
+    background-color: #FFF !important;
+}
+.header {
+    text-align: center;
+    color: #BC96E6;
+    margin-top: 20px;
+}
