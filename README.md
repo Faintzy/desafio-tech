@@ -4,4 +4,4 @@
 **Nesse desafio eu tive que criar um sistema de comentários semelhante ao do facebook.**
 **Finalizei com êxito, e o código se encontra acima**
 
-### github.com/sudoGabriel
+### github.com/Faintzy
